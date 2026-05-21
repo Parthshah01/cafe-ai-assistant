@@ -1,0 +1,62 @@
+[
+  {
+    "id": "flat-white",
+    "name": "Flat White",
+    "category": "Coffee",
+    "price": 4.5,
+    "description": "Double ristretto under velvet steamed milk.",
+    "image": "flatwhite",
+    "tags": ["espresso", "milk"],
+    "caffeineMg": 130
+  },
+  {
+    "id": "cold-brew",
+    "name": "24h Cold Brew",
+    "category": "Coffee",
+    "price": 5.0,
+    "description": "Slow-steeped Colombian beans, dark chocolate finish.",
+    "image": "coldbrew",
+    "tags": ["iced", "strong"],
+    "caffeineMg": 200,
+    "vegan": true
+  },
+  {
+    "id": "matcha-latte",
+    "name": "Ceremonial Matcha",
+    "category": "Tea",
+    "price": 5.5,
+    "description": "Stone-ground matcha with oat milk.",
+    "image": "matcha",
+    "tags": ["green tea", "oat"],
+    "caffeineMg": 70,
+    "vegan": true
+  },
+  {
+    "id": "croissant",
+    "name": "Butter Croissant",
+    "category": "Pastries",
+    "price": 3.75,
+    "description": "Flaky, buttery, freshly baked.",
+    "image": "croissant",
+    "tags": ["butter", "flaky"]
+  },
+  {
+    "id": "olive-oil-cake",
+    "name": "Olive Oil & Citrus Cake",
+    "category": "Pastries",
+    "price": 4.25,
+    "description": "Moist cake with citrus zest.",
+    "image": "cake",
+    "tags": ["citrus", "sweet"]
+  },
+  {
+    "id": "avocado-toast",
+    "name": "Avocado & Sumac Toast",
+    "category": "Brunch",
+    "price": 9.5,
+    "description": "Sourdough with avocado, egg, and spices.",
+    "image": "toast",
+    "tags": ["savory", "egg"],
+    "vegan": false
+  }
+]
